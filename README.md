@@ -1,6 +1,8 @@
 # modulo-1
 
-
+| Nombre y Apellido | Dirección de mail | Número de teléfono | Link |
+|:-----------------:|:-----------------:|:------------------:|:------------------:|
+|Juan Zingaretti|juanzingaretti85@gmail.com|2622444003|https://github.com/juan-zingaretti|
 ---
 Juan Martín Zingaretti ;
 Legajo N°:14634
