@@ -19,3 +19,6 @@
 # modulo-2
 
 <https://github.com/juan-zingaretti/modulo-2>
+---
+#modulo-3
+<https://github.com/juan-zingaretti/modulo-3>
