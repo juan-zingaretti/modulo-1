@@ -2,7 +2,8 @@
 
 
 ---
-
+Juan Martín Zingaretti 
+Legajo N°= 14634
 
 **Ejercicio 1: Como crear, modificar y hacer el archivo README.md**
 
